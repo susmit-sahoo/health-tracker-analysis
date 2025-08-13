@@ -24,3 +24,12 @@ Each patient has multiple records over different time periods, allowing for time
 - Potential integration with predictive models for early risk detection
 
 ## 📂 Project Structure
+.
+├── data/
+│ └── patient_vitals.csv
+├── notebooks/
+│ └── analysis.ipynb
+├── scripts/
+│ └── data_processing.py
+├── README.md
+└── requirements.txt
